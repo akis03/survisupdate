@@ -4,9 +4,9 @@
         "author": "Miguel Arevalillo-Herr\u00e1ez and Ra\u00fal Mor\u00e1n G\u00f3mez and Jos\u00e9 M. Claver",
         "doi": "10.1002/cae.20374",
         "journal": "Computer Applications in Engineering Education",
-        "keywords": "educational game, computer networking, network configuration, interactive learning",
+        "keywords": "simulation-based, educational game, computer networking, network configuration, interactive learning",
         "title": "Conquer the Net: An Educational Computer Game to Learn the Basic Configuration of Networking Components",
-        "type": "article",
+        "type": "article simulation-based",
         "year": "2009"
     },
     "Hilliard2024Using": {
@@ -14,9 +14,9 @@
         "author": "Kevin Hilliard and Xiaohong Yuan and Kelvin Bryant and Jinsheng Xu and Jinghua Zhang",
         "doi": "10.62915/2472-2707.1187",
         "journal": "Journal of Cybersecurity Education, Research & Practice",
-        "keywords": "gamification, network security, cybersecurity education, educational games, ARP, interactive learning",
+        "keywords": "Mission-based, gamification, network security, cybersecurity education, educational games, ARP, interactive learning",
         "title": "Using Gamification to Enhance Mastery of Network Security Concepts",
-        "type": "article",
+        "type": "article mission-based",
         "year": "2024"
     },
     "J.2020A": {
@@ -24,9 +24,9 @@
         "author": "Stewart, J. and Gaines, M.",
         "doi": "10.1109/TLT.2020.3008607",
         "journal": "IEEE Global Engineering Education Conference",
-        "keywords": "serious games, teamwork, subnetting, classroom evaluation",
+        "keywords": "collaboration-based, serious games, teamwork, subnetting, classroom evaluation",
         "title": "A Competitive Team-Oriented Serious Game in Computer Networking",
-        "type": "article",
+        "type": "article collaboration-based",
         "year": "2020"
     },
     "Jantakun2021Digital": {
@@ -34,9 +34,9 @@
         "author": "Thiti Jantakun and Thada Jantakoon",
         "doi": "10.5539/hes.v11n2p91",
         "journal": "Higher Education Studies",
-        "keywords": "educational games, game-based learning, digital learning environments, instructional design",
+        "keywords": "Mission-based, educational games, game-based learning, digital learning environments, instructional design",
         "title": "Digital Educational Computer Games Environments Supporting Education (DECGE-SE)",
-        "type": "article",
+        "type": "article mission-based",
         "year": "2021"
     },
     "Jarman2014A": {
@@ -44,9 +44,9 @@
         "author": "Sam Jarman and Tim Bell",
         "doi": "10.1145/2670757.2670773",
         "journal": "Proceedings of the 9th Workshop in Primary and Secondary Computing Education (WiPSCE)",
-        "keywords": "network communication, reliability, educational game, TCP, computer science education",
+        "keywords": "simulation-based, network communication, reliability, educational game, TCP, computer science education",
         "title": "A Game to Teach Network Communication Reliability Problems and Solutions",
-        "type": "article",
+        "type": "article simulation-based",
         "year": "2014"
     },
     "Jawad2021Gamifying": {
@@ -54,9 +54,9 @@
         "author": "Hadeel Mohammed Jawad and Samir Tout",
         "doi": "10.3390/info12110453",
         "journal": "Information (MDPI)",
-        "keywords": "gamification, computer science education, Generation Z, data structures, cybersecurity, educational tools",
+        "keywords": "Mission-based, gamification, computer science education, Generation Z, data structures, cybersecurity, educational tools",
         "title": "Gamifying Computer Science Education for Z Generation",
-        "type": "article",
+        "type": "article mission-based",
         "year": "2021"
     },
     "L.2015Foundations": {
@@ -64,9 +64,9 @@
         "author": "Plass, J. L. and Homer, B. D. and Kinzer, C. K.",
         "doi": "10.1080/00461520.2015.1122533",
         "journal": "Educational Psychologist",
-        "keywords": "game-based learning, pedagogy, cognitive load, educational psychology",
+        "keywords": "foundational, game-based learning, pedagogy, cognitive load, educational psychology",
         "title": "Foundations of Game-Based Learning",
-        "type": "article",
+        "type": "article foundational",
         "year": "2015"
     },
     "Ramos2023A": {
@@ -74,9 +74,9 @@
         "author": "J\u00falio Cesar Ramos and Alexandre L\u2019Erario and Marcio Mendon\u00e7a and Jos\u00e9 Augusto Fabri and Rodrigo Henrique Cunha Pal\u00e1cios",
         "doi": "10.1007/s10639-022-11557-9",
         "journal": "Education and Information Technologies",
-        "keywords": "board game, computer networks, data center, freshman education, network abstraction, educational game",
+        "keywords": "collaboration-based, board game, computer networks, data center, freshman education, network abstraction, educational game",
         "title": "A Board Game to Improve Freshmen on Computer Networks: Beyond Layers Abstraction",
-        "type": "article",
+        "type": "article collaboration-based",
         "year": "2023"
     },
     "Videnovik2023Game-Based": {
@@ -84,9 +84,9 @@
         "author": "Maja Videnovik and Tone Vold and Linda Ki\u00f8nig and Ana Madevska Bogdanova and Vladimir Trajkovik",
         "doi": "10.1186/s40594-023-00447-2",
         "journal": "International Journal of STEM Education",
-        "keywords": "game-based learning, computer science education, scoping review, educational games, pedagogical strategies",
+        "keywords": "Mission-based, game-based learning, computer science education, scoping review, educational games, pedagogical strategies",
         "title": "Game-Based Learning in Computer Science Education: A Scoping Literature Review",
-        "type": "article",
+        "type": "article mission-based",
         "year": "2023"
     },
     "\u0160v\u00e1bensk\u00fd2018Enhancing": {
@@ -94,9 +94,9 @@
         "author": "Valdemar \u0160v\u00e1bensk\u00fd and Jan Vykopal and Milan \u010cerm\u00e1k and Martin La\u0161tovi\u010dka",
         "doi": "10.1145/3197091.3197123",
         "journal": "Proceedings of the 2018 ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
-        "keywords": "cybersecurity, serious games, student-developed games, computer networking, active learning",
+        "keywords": "simulation-based, cybersecurity, serious games, student-developed games, computer networking, active learning",
         "title": "Enhancing Cybersecurity Skills by Creating Serious Games",
-        "type": "article",
+        "type": "article simulation-based",
         "year": "2018"
     }
 }});
